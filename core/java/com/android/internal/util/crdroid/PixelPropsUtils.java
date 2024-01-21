@@ -410,6 +410,7 @@ public class PixelPropsUtils {
         setPropValue("MODEL", "Hisense F30");
         setPropValue("PRODUCT", "F30");
         setVersionFieldString("SECURITY_PATCH", "2016-02-01");
+        setPropValue("DEVICE_INITIAL_SDK_INT", "32");
     }
 
     private static boolean isCallerSafetyNet() {
